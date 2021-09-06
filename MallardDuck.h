@@ -2,7 +2,7 @@
 
 #include "Duck.h"
 
-class MallardDuck
+class MallardDuck : public Duck
 {
 public:
 	MallardDuck();

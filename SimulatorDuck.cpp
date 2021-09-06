@@ -1,6 +1,8 @@
-﻿#include <iostream>
+﻿#include "MallardDuck.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    MallardDuck* duck1 = new MallardDuck();
+    duck1->display();
+    duck1->quack();
 }
