@@ -5,5 +5,5 @@ RubberDuck::RubberDuck() {
 }
 
 void RubberDuck::display() {
-	cout << "I'm RubberDuck" << endl;
+	cout << "I'm Rubber Duck" << endl;
 }

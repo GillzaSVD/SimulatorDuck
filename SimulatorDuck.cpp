@@ -20,5 +20,4 @@ int main()
     DecoyDuck* duck4 = new DecoyDuck();
     duck4->display();
     duck4->performFly();
-
 }

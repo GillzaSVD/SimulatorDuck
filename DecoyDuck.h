@@ -1,4 +1,5 @@
-#pragma once
+#ifndef DECOYDUCK_H
+#define DECOYDUCK_H
 
 #include "Duck.h"
 #include "FlyNoWay.h"
@@ -9,3 +10,5 @@ public:
 	DecoyDuck();
 	void display();
 };
+
+#endif

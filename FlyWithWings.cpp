@@ -5,5 +5,5 @@ FlyWithWings::FlyWithWings() {
 }
 
 void FlyWithWings::fly() {
-	cout << "I fly" << endl;
+	cout << "I fly\n" << endl;
 }

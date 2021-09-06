@@ -5,5 +5,5 @@ DecoyDuck::DecoyDuck() {
 }
 
 void DecoyDuck::display() {
-	cout << "I'm DecoyDuck" << endl;
+	cout << "I'm Decoy Duck" << endl;
 }

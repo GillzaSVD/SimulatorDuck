@@ -1,4 +1,5 @@
-#pragma once
+#ifndef REDHEADDUCK_H
+#define REDHEADDUCK_H
 
 #include "Duck.h"
 #include "FlyWithWings.h"
@@ -10,3 +11,4 @@ public:
 	void display();
 };
 
+#endif

@@ -1,4 +1,5 @@
-#pragma once
+#ifndef MALLARDDUCK_H
+#define MALLARDDUCK_H
 
 #include "Duck.h"
 #include "FlyWithWings.h"
@@ -10,3 +11,4 @@ public:
 	void display();
 };
 
+#endif

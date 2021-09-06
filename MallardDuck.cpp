@@ -5,5 +5,5 @@ MallardDuck::MallardDuck() {
 }
 
 void MallardDuck::display() {
-	cout << "I'm MallardDuck" << endl;
+	cout << "I'm Mallard Duck" << endl;
 }

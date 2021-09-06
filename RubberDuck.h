@@ -1,4 +1,5 @@
-#pragma once
+#ifndef RUBBERDUCK_H
+#define RUBBERDUCK_H
 
 #include "Duck.h"
 #include "FlyNoWay.h"
@@ -9,3 +10,5 @@ public:
 	RubberDuck();
 	void display();
 };
+
+#endif

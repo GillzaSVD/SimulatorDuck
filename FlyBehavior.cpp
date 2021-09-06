@@ -1,5 +1,5 @@
 #include "FlyBehavior.h"
 
-class FlyBehavior {
+FlyBehavior::FlyBehavior() {
 
-};
+}
