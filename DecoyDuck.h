@@ -3,6 +3,7 @@
 
 #include "Duck.h"
 #include "FlyNoWay.h"
+#include "MuteQuack.h"
 
 class DecoyDuck : public Duck
 {
