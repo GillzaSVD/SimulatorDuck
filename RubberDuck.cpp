@@ -1,17 +1,9 @@
 #include "RubberDuck.h"
 
 RubberDuck::RubberDuck() {
-
+	this->flyBehavior = new FlyNoWay();
 }
 
 void RubberDuck::display() {
 	cout << "I'm RubberDuck" << endl;
-}
-
-void RubberDuck::quack() {
-	cout << "Krya-krya, govorit utochka" << endl;
-}
-
-void RubberDuck::fly() {
-	
 }

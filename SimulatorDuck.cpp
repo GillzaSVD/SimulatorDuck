@@ -7,18 +7,18 @@ int main()
 {
     MallardDuck* duck1 = new MallardDuck();
     duck1->display();
-    duck1->quack();
-    duck1->fly();
+    duck1->performFly();
+
     RedheadDuck* duck2 = new RedheadDuck();
     duck2->display();
-    duck2->quack();
-    duck2->fly();
+    duck2->performFly();
+
     RubberDuck* duck3 = new RubberDuck();
     duck3->display();
-    duck3->quack();
-    duck3->fly();
+    duck3->performFly();
+
     DecoyDuck* duck4 = new DecoyDuck();
     duck4->display();
-    duck4->quack();
-    duck4->fly();
+    duck4->performFly();
+
 }
