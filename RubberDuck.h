@@ -2,12 +2,11 @@
 
 #include "Duck.h"
 
-class MallardDuck : public Duck
+class RubberDuck : public Duck
 {
 public:
-	MallardDuck();
+	RubberDuck();
 	void quack();
 	void display();
 	void fly();
 };
-

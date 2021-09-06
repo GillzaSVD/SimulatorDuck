@@ -7,7 +7,6 @@ class Duck
 {
 public:
 	Duck();
-	void quack(); //кряканье
 	void swim(); //плаванье
 	virtual void display() = 0; //отображение
 };
